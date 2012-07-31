@@ -1,0 +1,6 @@
+[submodule "sapphire"]
+	path = sapphire
+	url = git://github.com/MediaDevils/sapphire.git
+[submodule "cms"]
+	path = cms
+	url = git://github.com/MediaDevils/silverstripe-cms.git
